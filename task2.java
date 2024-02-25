@@ -6,6 +6,6 @@ public class task2 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-        System.out.print(a * c + " " + b * c);
+        System.out.print((a * c) + " " + (b * c));
     }
 }
